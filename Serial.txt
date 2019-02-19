@@ -1,6 +1,6 @@
 Configuration	Serial
 STM32CubeMX 	5.0.1
-Date	01/28/2019
+Date	02/19/2019
 MCU	STM32F103RCTx
 
 
@@ -50,7 +50,7 @@ SOFTWARE PROJECT
 
 Project Settings : 
 Project Name : Serial
-Project Folder : D:\Temp\Keil\Serial
+Project Folder : D:\Temp\Keil\Serial_DMA
 Toolchain / IDE : MDK-ARM V5
 Firmware Package Name and Version : STM32Cube FW_F1 V1.7.0
 
